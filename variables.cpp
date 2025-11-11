@@ -27,6 +27,7 @@ int main()
 
     std::cout << "Hello, My name is " << name << " today is " << day << " I love to eat " << food << " I live at " << address;
 
+    // Declare and initialize constant variables
     const double PI = 3.14159;
 
     return 0;
