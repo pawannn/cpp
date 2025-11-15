@@ -47,4 +47,5 @@
 - [objects](./object.cpp)
 - [Constructor](./constructor.cpp)
 - [Constructor Overloading](./constructorOverloading.cpp)
-
+- [Getter Setter](./gettersetter.cpp)
+- [Inheritance](./inheritance.cpp)
